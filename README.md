@@ -124,17 +124,12 @@ npm test
 
 ---
 
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!  
-Feel free to check out the [issues page](https://github.com/dakshsaini2/Momentum/issues).
----
 
 ## 👨‍💻 Author
 
-**Daksh Saini**
+**Devansh Saini**
 
-- GitHub: [@dakshsaini2](https://github.com/dakshsaini2)
+
 
 ---
 
